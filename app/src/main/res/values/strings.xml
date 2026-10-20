@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieExplorerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="movie_sort_options">
+        <item>Title</item>
+        <item>Rating</item>
+        <item>Release Date</item>
+        <item>Director</item>
+        <item>Duration</item>
+    </string-array>
+
+    <string-array name="movie_sort_order">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+
+
+</resources>
